@@ -137,7 +137,7 @@ If we want to split apart, or slice a list into different parts, we can use the 
 	print(workers[0:3])
 This is what will print out:
 
-	['Ava', 'Anna', 'Anna']
+	['Ava', 'Anna', 'Matt']
 Let's say we wanted to give employees 1 to 4 a raise.
 
 	workers = ['Ava', 'Anna', 'Matt', 'Josh', 'Liz']
