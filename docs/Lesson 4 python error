@@ -1,0 +1,3 @@
+workers = ['Ava', 'Anna', 'Matt', 'Josh', 'Liz']
+print(workers[0:3])
+it should say ['Ava', 'Anna', 'Matt'
